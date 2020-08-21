@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## NextJS boilerplate for Umbraco 8 back office integration (UmbraciApiController)
